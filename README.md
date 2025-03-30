@@ -41,7 +41,7 @@ LiveTrack is a MERN stack-based website that enables users to share and view liv
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/LiveTrack.git
+   git clone https://github.com/AbdulMoiz2493/LiveTrack.git
    cd LiveTrack
    ```
 2. Install dependencies:
