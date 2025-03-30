@@ -87,3 +87,9 @@ LiveTrack is a MERN stack-based website that enables users to share and view liv
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
+## Contact
+If you have any questions, feel free to reach out:
+- **Abdul Moiz**  
+- Email: abdulmoiz8895@gmail.com 
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
+
