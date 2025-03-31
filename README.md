@@ -1,4 +1,4 @@
-# LiveTrack
+# LiveTrack 
 
 LiveTrack is a MERN stack-based website that enables users to share and view live locations with their friends in real time. Users can create rooms and allow their friends to join, ensuring secure and seamless tracking.
 
